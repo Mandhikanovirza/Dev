@@ -1,7 +1,6 @@
 # 🧠 Portofolio M. Andhika Novfirza – Minecraft Server Developer
 
-Halo! Saya **M. Andhika Novfirza**, developer Minecraft server yang mengutamakan scripting modular, sistem aman, dan pengalaman pemain yang imersif. Aktif berkontribusi di server **LunarisNetwork** dan **DolpinzSMP**, saya menciptakan plugin inovatif serta solusi teknis berskala komunitas.
-
+Halo! Saya **M. Andhika Novfirza**, developer Minecraft server yang mengutamakan scripting modular, sistem aman, dan pengalaman pemain yang imersif. Aktif berkontribusi di server **LunarisNetwork** dan **DolpinzSMP**, saya menciptakan plugin inovatif serta solusi teknis.
 ---
 
 ## 🏢 Server Kolaborasi
