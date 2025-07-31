@@ -1,63 +1,59 @@
-#Portfolio
+# 🧠 Portofolio M. Andhika Novfirza – Minecraft Server Developer
 
-**Nama:** M. Andhika Novfirza
-**Peran:** Minecraft Server Developer | Plugin Maker | Web Developer
-**Lokasi:**  
-**Status:** Tersedia untuk kolaborasi / proyek pengembangan server Minecraft
+Halo! Saya **M. Andhika Novfirza**, developer Minecraft server yang mengutamakan scripting modular, sistem aman, dan pengalaman pemain yang imersif. Aktif berkontribusi di server **LunarisNetwork** dan **DolpinzSMP**, saya menciptakan plugin inovatif serta solusi teknis berskala komunitas.
 
 ---
 
-## 🧠 Ringkasan Profil
+## 🏢 Server Kolaborasi
 
-Saya adalah seorang developer Minecraft server dengan spesialisasi dalam pengembangan plugin, optimalisasi performa, sistem UI/UX berbasis inventori, dan monetisasi server. Saya memiliki proyek plugin sekaligus website untuk memonetisasi server minecraft. 
-
----
-
-## 🚀 Keahlian Inti
-
-### 🔧 Pengembangan Server
-- Penggunaan dan konfigurasi **Spigot** dan **Paper**
-- Manajemen plugin populer: **LuckPerms**, **EssentialsX**, **TAB**, **Vault**, dan lainnya
-- Setup multi-server menggunakan **Velocity Proxy** atau **BungeeCord**
-
-### 📜 Plugin & Skrip Kustom
-- Pengembangan plugin menggunakan **Java** dan **Skript**
-- Sistem seperti:
-  - GUI interaktif (Jobs, Warps, Class Selection)
-  - Sistem ekonomi, toko dinamis, dan daily rewards
-  - Plugin teleportasi & animasi efek
-
-### 🎮 Desain Gameplay
-- Perancangan mekanik survival yang menarik
-- Sistem PvE dan PvP balance
-- Sistem skill dan leveling berbasis pengalaman pemain
-
-### 💰 Monetisasi
-- Integrasi dengan **Tebex / Buycraft** untuk toko online
-- Sistem peringkat premium (VIP, MVP) dan kosmetik
-- Integrasi dengan Plugin buatan saya yang bernama **Webstore** untuk monetisasi server. 
+| Server           | Peran                              | Fokus Pengembangan                                        |
+|------------------|-------------------------------------|-----------------------------------------------------------|
+| **LunarisNetwork** | Developer Infrastruktur & Keamanan   | Keamanan, keoptimalan, dan kenyamanan server      |
+| **DolpinzSMP**     | Developer Gameplay | Mekanik kustom, |
 
 ---
 
-## 📌 Proyek Penting
-- **Webstore** Plugin monetisasi server dengan kostumisasi lanjutan.
-- **ToChat** Plugin chat manager dengan sistem interaktif. Plugin ini masih dalam pengembangan dengan fitur seperti **Inventory** untuk memperbolehkan pemain membuka inventory pemain, **Items** Untuk melihat item yang pemain pegang, dan masih ada fitur lainnya
+## 🚀 Plugin Buatan Saya
 
-## 💼 Teknologi & Toolchain
-
-| Bahasa        | Platform & Engine     | Database & DevOps    |
-|---------------|------------------------|-----------------------|
-| Java, Skript  | Spigot, Paper, Velocity| MySQL, YAML Configs   |
-| HTML/CSS      | Tebex, GitHub Pages | Pterodactyl, Multicraft |
-| Git           | GitHub, GitLab         | Spark Profiler, Console Tools |
+| Plugin             | Fungsi Utama                                              | Ringkasan                                                 |
+|--------------------|-----------------------------------------------------------|------------------------------------------------------------|
+| **GlobalChatTo**    | Komunikasi lintas server/proxy                            | Pesan antar subserver secara real-time       |
+| **VotePartyTo**     | Event otomatis berbasis vote pemain                       | Simple VoteParty sistem, hadiah vote              |
+| **ClaimBlockSetter**| Manajemen blok klaim berdasarkan rank atau status pemain  | Set claim otomatis dengan integrasi ke plugin GriefPrevention       |
+| **Webstore**        | Integrasi server dengan web                               | Perantara pengiriman command dari web   |
+| **Setprefix**       | Pengaturan prefix pemain secara dinamis & aman            | Custom prefix pemain dengan command    |
 
 ---
 
-## 📬 Kontak & Profil
+## ⚒️ Keahlian Teknis
 
-- 🌐 Website: [https://github.com/Mandhikanovirza]
-- ✉️ Email: twodevteamstudio@gmail.com
-- 💬 Discord: cocolalareal_#4329
-- 🎮 Minecraft IGN: CoCoLaLaReal
+- 🔁 **Modular & Secure Scripting**: memory patching, obfuscation, fallback sistem
+- 🛠️ **Plugin Minecraft**: GUI animasi, mekanik custom, sistem rank & permission
+- 🌐 **Web Dev & API**: RESTful services, database publik, login web
+- 🔐 **Security & Optimization**: UUID validasi, anti-leeching, RedisBungee
+- ⚡ **Server Scaling**: multi-proxy sinkronisasi, crash recovery, distribusi data
+---
+
+## 📸 Showcase
+
+- 🎥 Demo Plugin: [GlobalChatTo](https://modrinth.com/plugin/globalchatto) • [ClaimBlockSetter](https://www.spigotmc.org/resources/claimblocksetter.127173/) • [Webstore](https://www.spigotmc.org/resources/webstore-by-twodev.125926/) • [VotePartyTo](https://www.spigotmc.org/resources/votepartyto.127350/)
+
+---
+
+## 📬 Kontak
+
+- 💬 Discord: `@devcocolala_`
+- 📧 Email: `twodevteamstudio@gmail.com`
+- 🐙 GitHub: [github.com/mandhikanovirza](https://github.com/mandhikanovirza)
+
+---
+
+## 🌟 Status
+
+Developer aktif di:
+- **LunarisNetwork** – Infrastruktur, sinkronisasi, & keamanan
+- **DolpinzSMP** – gameplay kustom, event sistem
+
+Terbuka untuk kolaborasi baru, fitur eksperimental, dan proyek komunitas.
 
 ---
