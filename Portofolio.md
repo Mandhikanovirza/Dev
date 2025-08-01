@@ -8,7 +8,7 @@ Halo! Saya **M. Andhika Novfirza**, developer Minecraft server yang mengutamakan
 | Server           | Peran                              | Fokus Pengembangan                                        |
 |------------------|-------------------------------------|-----------------------------------------------------------|
 | **LunarisNetwork** | Developer Infrastruktur & Keamanan   | Keamanan, keoptimalan, dan kenyamanan server      |
-| **DolpinzSMP**     | Developer Gameplay | Mekanik kustom, |
+| **DolpinzSMP**     | Developer Gameplay | Mekanik kustom, Manager |
 
 ---
 
